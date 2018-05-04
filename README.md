@@ -33,7 +33,7 @@ In order to edit the VS Code documentation, ensure that you have [Git](https://g
 Clone a copy of the repo:
 
 ```
-git clone https://github.com/Microsoft/vscode-docs.git
+git clone https://github.com/majid664/vscode-docs.git
 ```
 
 VS Code itself is great for reviewing and editing [Markdown](https://code.visualstudio.com/docs/languages/markdown) with nice preview support.
